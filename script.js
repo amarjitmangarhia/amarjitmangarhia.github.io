@@ -10,7 +10,8 @@ document.querySelector('.score').textContent = 10;
 document.querySelector('.guess').value = 23;
 console.log(document.querySelector('.guess').value);
 */
-
+const name = prompt("Enter your name..");
+document.querySelector('.name').textContent = 'Hello ' + name;
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
 let highScore = 0;

@@ -117,3 +117,9 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+.name {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+}
