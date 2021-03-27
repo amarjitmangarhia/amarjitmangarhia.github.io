@@ -1,1 +1,0 @@
-# amarjitmangarhia.github.io
